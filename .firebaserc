@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "my-netflex-clone-2c496",
+    "netflix": "my-netflex-clone-2c496",
+    "My-Netflex-clone": "my-netflex-clone-2c496"
+  },
+  "targets": {},
+  "etags": {}
+}
